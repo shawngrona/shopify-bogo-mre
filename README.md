@@ -6,7 +6,7 @@
 
 1. Create a collection listing all products [example](./docs/all-products-collection-example.png)
 1. Create a Buy One Get One Discount [example](./docs/bogo-discount-example.png)
-1. Using this example code in react-js-buy folder, add a product to cart multiple times
+1. Using this example code in react-js-buy folder, add a product that is part of the Buy One Get One discount (eg "Foundations in MDMA Safety, Therapeutic Applications & Research") to cart multiple times
 
 **Expected:**
 
